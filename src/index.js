@@ -1,14 +1,10 @@
-import { Snake } from './Snake';
+import { SnakeGame } from './SnakeGame';
 
-const game1 = new Snake();
-const game2 = new Snake();
+const game1 = new SnakeGame();
 
 game1.init();
-game2.init();
 
-console.log('Snake.canvasHeight', Snake.canvasHeight);
 // console.log('game', game2);
-
 
 
 // const canvas = document.querySelector('#canvas');

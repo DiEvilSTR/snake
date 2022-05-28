@@ -1,3 +1,19 @@
-#canvas {
+.snake {
+  display: inline-block;
+  position: relative;
+}
+
+.snake-start_btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.snake-canvas {
   background-color: black;
+}
+
+.hidden {
+  display: none;
 }
