@@ -6,7 +6,6 @@ game1.init();
 
 // console.log('game', game2);
 
-
 // const canvas = document.querySelector('#canvas');
 
 // const CANVAS_HEIGHT = 600;
